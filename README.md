@@ -35,7 +35,7 @@ web site</a>:
 
 ## Loading the data
 
-
+## Please create a folder: /DataPlot_Project1 to run the scripts 
 
 
 
